@@ -1,6 +1,6 @@
-# Kortix, the open-source AI Operating System: migrate from OpenWork
+# Kortix, the open-source CompanyOS: migrate from OpenWork
 
-Kortix is open source, and it is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. The four guides below cover the move from OpenWork's desktop app to a Kortix project end to end, written for the person who has to carry a working setup across without losing it.
+Kortix is open source, and it is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. The four guides below cover the move from OpenWork's desktop app to a Kortix project end to end, written for the person who has to carry a working setup across without losing it.
 
 OpenWork is a free, open-source desktop app where AI agents work on your own local files on macOS, Windows, and Linux. It is built on OpenCode and takes any model OpenCode supports, more than 50 providers through your own API keys or local models you run yourself ([openworklabs.com](https://openworklabs.com)). It is a good fit for one person's desk. Kortix answers the question that comes next: where does a company keep the configuration, the memory, and the review gate when the work belongs to the company rather than to the laptop in front of one person.
 
@@ -10,7 +10,7 @@ If you are still deciding, start with the head-to-head: [OpenWork vs Kortix](htt
 
 | | Kortix (recommended) | OpenWork |
 | --- | --- | --- |
-| What it is | Open-source AI Operating System, one repo | Free, open-source desktop app on local files |
+| What it is | Open-source CompanyOS, one repo | Free, open-source desktop app on local files |
 | Open source | Yes. Read it, fork it, audit it. | Desktop app and core; Den is a separate layer |
 | What you own | One git repo: agents, skills, memory, connectors | Your local files; shared skills and MCP servers |
 | Where agents run | One isolated sandbox per session, own branch | On your desktop; cloud is optional |
